@@ -28,7 +28,7 @@ const Banner = () => {
                </div>
                <div className="col-lg-6 col-md-9 order-lg-first align-self-center">
                   <div className="banner-inner style-white  text-center text-lg-start">
-                     <h4 className="sub-title">Hi, I'm Alika Maya</h4>
+                     <h4 className="sub-title">Hi, I&apos;m Alika Maya</h4>
                      <h2 className="title">Empowering Lives Through Style & Inspiration</h2>
                   </div>
                </div>
